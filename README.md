@@ -76,5 +76,11 @@ Cloudinary is used for managing and optimizing media assets within the platform.
 MapTiler provides interactive mapping and geolocation services that enhance the user experience by displaying property locations visually. This integration allows users to see the exact geographic coordinates of a property, making it easier to explore and evaluate rental options. 
 [Learn more about MapTiler](https://www.maptiler.com/) 
 
+## Deployment
+
+### Render
+Used for hosting and deploying the backend and frontend services.
+
+
 
 
